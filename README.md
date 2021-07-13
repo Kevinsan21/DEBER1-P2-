@@ -3,14 +3,38 @@ Integrantes: Kevin Barrera
              Jennifer Beltran
              Vanessa Cayambe
              
-1.OBJETIVOS
+# INTEGRANTES
 
-1.1.OBJETIVO GENERAL
+.Kevin Barrera
 
-1.2.OBJETIVOS ESPECIFICOS 
+.Jennifer Beltran
 
-2.MARCO TEORICO 
+.Vanessa Cayambe
 
-3.RESOLUCION DE EJERCICIOS
-CAPITULO 7
-d
+# 1. OBJETIVOS
+
+
+# 2. MARCO TEORICO
+
+.Capitulo 7
+
+
+.Capitulo 8
+
+
+
+# 3. RESOLUCION DE EJERCICIOS
+
+
+# 4.VIDEO.
+
+
+# 5.CONCLUSIONES.
+
+
+
+
+
+# 6.BIBLIOGRAFIA.
+Robbins, A., & Oja, D. (s. f.). Analisis De Circuitos Electricos/ Circuit Analysis: Teoria Y Practica/ Theory and Practice (4 Pap/Cdr ed.) [Libro electrónico]. https://www.academia.edu/20334884/Analisis_de_circuitos_Teoria_y_practica
+
