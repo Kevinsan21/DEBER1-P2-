@@ -27,6 +27,28 @@ Integrantes: Kevin Barrera
 # 3. RESOLUCION DE EJERCICIOS
 
 
+
+
+
+
+
+.Capitulo 8
+![](https://github.com/Kevinsan21/DEBER1-P2-IMAGENES/blob/main/Circuitos8_01.jpg)
+![](https://github.com/Kevinsan21/DEBER1-P2-IMAGENES/blob/main/Circuitos8_02.jpg)
+![](https://github.com/Kevinsan21/DEBER1-P2-IMAGENES/blob/main/Circuitos8_03.jpg)
+![](https://github.com/Kevinsan21/DEBER1-P2-IMAGENES/blob/main/Circuitos8_04.jpg)
+![](https://github.com/Kevinsan21/DEBER1-P2-IMAGENES/blob/main/Circuitos8_05.jpg)
+![](https://github.com/Kevinsan21/DEBER1-P2-IMAGENES/blob/main/Circuitos8_06.jpg)
+![](https://github.com/Kevinsan21/DEBER1-P2-IMAGENES/blob/main/Circuitos8_07.jpg)
+![](https://github.com/Kevinsan21/DEBER1-P2-IMAGENES/blob/main/Circuitos8_08.jpg)
+![](https://github.com/Kevinsan21/DEBER1-P2-IMAGENES/blob/main/Circuitos8_09.jpg)
+![](https://github.com/Kevinsan21/DEBER1-P2-IMAGENES/blob/main/Circuitos8_10.jpg)
+![](https://github.com/Kevinsan21/DEBER1-P2-IMAGENES/blob/main/Circuitos8_11.jpg)
+![](https://github.com/Kevinsan21/DEBER1-P2-IMAGENES/blob/main/Circuitos8_12.jpg)
+![](https://github.com/Kevinsan21/DEBER1-P2-IMAGENES/blob/main/Circuitos8_13.jpg)
+![](https://github.com/Kevinsan21/DEBER1-P2-IMAGENES/blob/main/Circuitos8_14.jpg)
+![](https://github.com/Kevinsan21/DEBER1-P2-IMAGENES/blob/main/Circuitos8_15.jpg)
+
 # 4.VIDEO.
 
 
