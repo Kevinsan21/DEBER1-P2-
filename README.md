@@ -35,11 +35,11 @@ Integrantes: Kevin Barrera
 ![image](https://user-images.githubusercontent.com/84421020/125471657-7e3c752b-9236-49b6-beec-ebe7b78a7a02.png)
 ![image](https://user-images.githubusercontent.com/84421020/125471657-7e3c752b-9236-49b6-beec-ebe7b78a7a02.png)
 ![image](https://user-images.githubusercontent.com/84421020/125471707-47d08a81-620b-46e8-ae84-0c25bea8f814.png)
+![image](https://user-images.githubusercontent.com/84421020/125471726-ab16d807-e59f-4116-a1c8-e9302c83ff29.png)
 
 .Capitulo 8
 
 
-![image](https://user-images.githubusercontent.com/84421020/125471726-ab16d807-e59f-4116-a1c8-e9302c83ff29.png)
 ![image](https://user-images.githubusercontent.com/84421020/125471761-55214f67-0eb2-4c6c-8e43-96fb295637bd.png)
 ![image](https://user-images.githubusercontent.com/84421020/125471786-7656de03-d235-4085-94aa-34bf8772508f.png)
 ![image](https://user-images.githubusercontent.com/84421020/125471799-76c45072-d000-4d57-a9ea-6411a9766385.png)
