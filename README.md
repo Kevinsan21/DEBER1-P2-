@@ -22,7 +22,7 @@ Integrantes: Kevin Barrera
 
 .Capitulo 8
 
-
+![image](https://user-images.githubusercontent.com/84421020/125385919-0cbd5680-e361-11eb-96e5-7441ac4df6e8.png)
 
 # 3. RESOLUCION DE EJERCICIOS
 
