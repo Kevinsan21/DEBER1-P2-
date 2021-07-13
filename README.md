@@ -33,6 +33,11 @@ Integrantes: Kevin Barrera
 ![image](https://user-images.githubusercontent.com/84421020/125471612-a374f128-72e5-4a9a-b5ae-243da2d70a67.png)
 ![image](https://user-images.githubusercontent.com/84421020/125471641-aaa757f8-354d-4ef8-91b6-1bca3dbe87a5.png)
 ![image](https://user-images.githubusercontent.com/84421020/125471657-7e3c752b-9236-49b6-beec-ebe7b78a7a02.png)
+
+
+.Capitulo 8
+
+![image](https://user-images.githubusercontent.com/84421020/125471657-7e3c752b-9236-49b6-beec-ebe7b78a7a02.png)
 ![image](https://user-images.githubusercontent.com/84421020/125471707-47d08a81-620b-46e8-ae84-0c25bea8f814.png)
 ![image](https://user-images.githubusercontent.com/84421020/125471726-ab16d807-e59f-4116-a1c8-e9302c83ff29.png)
 ![image](https://user-images.githubusercontent.com/84421020/125471761-55214f67-0eb2-4c6c-8e43-96fb295637bd.png)
@@ -41,7 +46,6 @@ Integrantes: Kevin Barrera
 ![image](https://user-images.githubusercontent.com/84421020/125471814-43435195-a576-4689-bff3-9a1a286d0e9e.png)
 ![image](https://user-images.githubusercontent.com/84421020/125471833-3ce86bef-5dc3-435f-9d05-281558deae26.png)
 
-.Capitulo 8
 
 ![](https://github.com/Kevinsan21/DEBER1-P2-IMAGENES/blob/main/Circuitos8_01.jpg)
 ![](https://github.com/Kevinsan21/DEBER1-P2-IMAGENES/blob/main/Circuitos8_02.jpg)
