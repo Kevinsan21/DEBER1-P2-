@@ -13,3 +13,4 @@ Integrantes: Kevin Barrera
 
 3.RESOLUCION DE EJERCICIOS
 CAPITULO 7
+d
