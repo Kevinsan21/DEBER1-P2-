@@ -10,13 +10,13 @@
 # 1. OBJETIVOS
 Objetivo general:
 
-Definir lo que es un circuito en serie y en paralelo para un mejor conocimiento al momento de aplicar en un circuito.
+.Definir lo que es un circuito en serie y en paralelo para un mejor conocimiento al momento de aplicar en un circuito.
 
-Objetivos especicficos:
+Objetivos especificos:
 
-Aplicar ley de Ohm para saber cuál es el máximo de corriente que se le puede otorgar al circuito.
+.Aplicar ley de Ohm para saber cuál es el máximo de corriente que se le puede otorgar al circuito.
 
-Comprobar como influyen las leyes de Kirchhoff  tanto circuitos en serie como en paralelo.
+.Comprobar como influyen las leyes de Kirchhoff  tanto circuitos en serie como en paralelo.
 
 # 2. MARCO TEORICO
 
