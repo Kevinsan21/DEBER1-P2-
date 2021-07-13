@@ -1,8 +1,4 @@
-# DEBER1-P2-
-Integrantes: Kevin Barrera
-             Jennifer Beltran
-             Vanessa Cayambe
-             
+# DEBER1-P2-             
 # INTEGRANTES
 
 .Kevin Barrera
@@ -12,7 +8,14 @@ Integrantes: Kevin Barrera
 .Vanessa Cayambe
 
 # 1. OBJETIVOS
+Objetivo general:
 
+Definir lo que es un circuito en serie y en paralelo para un mejor conocimiento al momento de aplicar en un circuito.
+
+Objetivos especicficos:
+
+Aplicar ley de Ohm para saber cuál es el máximo de corriente que se le puede otorgar al circuito.
+Comprobar como influyen las leyes de Kirchhoff  tanto circuitos en serie como en paralelo.
 
 # 2. MARCO TEORICO
 
