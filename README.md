@@ -70,8 +70,11 @@ Objetivos especificos:
 # 4.VIDEO.
 
 
-# 5.CONCLUSIONES.
+# 5.CONCLUSION.
 
+Se obtuvo un aprendizaje significativo en la materia debido a que conocimos de una mejor como poder resolver distintos tipos 
+de circuitos y que metodo lo simplifica mas en su resolvimiento provocando asi una mejor tecnica de profesionalismo al momento
+de resolver problemas que se nos presente en la vida profesional.
 
 
 
