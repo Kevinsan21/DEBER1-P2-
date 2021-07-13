@@ -18,6 +18,7 @@ Integrantes: Kevin Barrera
 
 .Capitulo 7
 
+![image](https://user-images.githubusercontent.com/84421020/125378400-46d42b80-e354-11eb-8ca0-554172f01210.png)
 
 .Capitulo 8
 
