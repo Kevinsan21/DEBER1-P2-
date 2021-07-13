@@ -68,7 +68,7 @@ Objetivos especificos:
 ![](https://github.com/Kevinsan21/DEBER1-P2-IMAGENES/blob/main/Circuitos8_15.jpg)
 
 # 4.VIDEO.
-
+https://www.youtube.com/watch?v=Y28VkF75g7Q
 
 # 5.CONCLUSION.
 
